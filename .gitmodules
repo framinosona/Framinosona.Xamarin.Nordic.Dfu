@@ -1,0 +1,6 @@
+[submodule "NordicSemiconductor/Android-DFU-Library"]
+	path = NordicSemiconductor/Android-DFU-Library
+	url = https://github.com/NordicSemiconductor/Android-DFU-Library
+[submodule "NordicSemiconductor/IOS-Pods-DFU-Library"]
+	path = NordicSemiconductor/IOS-Pods-DFU-Library
+	url = https://github.com/NordicSemiconductor/IOS-Pods-DFU-Library
