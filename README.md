@@ -1,0 +1,1 @@
+Framinosona.Xamarin.Nordic.Dfu
